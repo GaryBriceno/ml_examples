@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+keras
+# Keras requiere tensorflow 2.2 o superior
+# Por compatibilidad con la version de Python 3.9, se cambio la version de Tensorflow
+tensorflow
+spacy
+nltk
