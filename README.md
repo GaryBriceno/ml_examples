@@ -1,3 +1,10 @@
+Jupyter Books with examples of Machine Learning and Natural Language Processing:
+- Casos: two examples of ML, from analysis, choice the model and optimize the model.
+- cloud_examples: two examples of the use of the services of AWS
+- nlp_examples: examples of Spacy and NLTK 
+
+All the examples work with Python 3.7 and the requirements in requirements37.txt.
+
 ---
 ### Data for the cases
 
