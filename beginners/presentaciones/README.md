@@ -6,5 +6,5 @@ Listado de Presentaciones y Ejemplos:
    * Codigo: [Hugging Face](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/02_using_hugging_face.ipynb) 
 3. [Clasificacion de Riesgo Crediticio con Arboles de Decision](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/presentaciones/01-Clasificacion-de-Riesgo-Crediticio-con-Arboles-de-Decision.pdf)
    * Codigo: [Arboles de Decision](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/03_clasificacion_riesgo_crediticio.ipynb)
-4. [Deteccion de Fraude en Tarjetas de creddito]:
+4. [Deteccion de Fraude en Tarjetas de creddito](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/presentaciones/02-Usando-ML-para-detectar-fraude-en-tarjetas-de-credito.pdf)
    * Codigo: [Uso de Random Forest](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/04-credit-card-fraud-detection.ipynb)
