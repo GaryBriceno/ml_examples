@@ -8,3 +8,5 @@ Listado de Presentaciones y Ejemplos:
    * Codigo: [Arboles de Decision](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/03_clasificacion_riesgo_crediticio.ipynb)
 4. [Deteccion de Fraude en Tarjetas de creddito](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/presentaciones/02-Usando-ML-para-detectar-fraude-en-tarjetas-de-credito.pdf)
    * Codigo: [Uso de Random Forest](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/04-credit-card-fraud-detection.ipynb)
+5. [Masked Language Modeling](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/presentaciones/01-Masked-Language-Modeling.pdf)
+   * Codigo: [Proceso de MLM](https://github.com/GaryBriceno/ml_examples/blob/main/beginners/05-Masked-Language-Model.ipynb)
